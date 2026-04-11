@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant data for the San Diego-Chula Vista-Carlsbad metro in Southern California. Filtered by the Restaurants category group, this dataset spans the border region's diverse dining scene with business profiles, ratings, reviews, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in San Diego-Chula Vista-Carlsbad (Metro), California, US",
+  "export_job_id": "c0c5ce0b-930c-4a11-bb27-e387d90c6e7f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 381259,
+  "location_name": "San Diego-Chula Vista-Carlsbad, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-381259",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/381259/beamstation_381259_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 848,
+  "sample_sha256": "7c4560bc112b81ce58879006042b88e0019a0f01f19838475745f2cb185c61fa",
+  "sample_size_bytes": 3048015,
+  "total_records": 8488,
+  "updated_at": "2026-04-09T14:56:37.775464+00:00"
+}
