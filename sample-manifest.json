@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c0c5ce0b-930c-4a11-bb27-e387d90c6e7f",
+  "export_job_id": "a0823318-1978-44d7-b6ba-619b2f977b01",
   "id_short": 381259,
-  "published_at": "2026-04-11T19:47:29Z",
+  "published_at": "2026-04-19T19:31:40Z",
   "repo_name": "all-restaurants-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-381259",
   "sample_asset_name": "beamstation_381259_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/381259/beamstation_381259_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
-  "sample_records": 848,
-  "sample_sha256": "7c4560bc112b81ce58879006042b88e0019a0f01f19838475745f2cb185c61fa",
-  "sample_size_bytes": 3048015,
-  "total_records": 8488
+  "sample_records": 823,
+  "sample_sha256": "ab7ec11c04979e7f93240d00b27d3b8770d682527d1f1002b56445937f6e5649",
+  "sample_size_bytes": 2979350,
+  "total_records": 8234
 }
