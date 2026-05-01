@@ -1,6 +1,6 @@
 # All Restaurants in San Diego-Chula Vista-Carlsbad (Metro), California, US
 
-> Free BeamStation sample export with 811 rows and masked direct-contact fields.
+> Free BeamStation sample export with 829 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `381259` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 8,118 records |
-| Free sample size | 811 records (9.99%) |
-| Last export | 2026-04-23T14:08:08.281584+00:00 |
+| Full dataset size | 8,298 records |
+| Free sample size | 829 records (9.99%) |
+| Last export | 2026-05-01T02:10:53.842942+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-381259/releases/download/sample-latest/beamstation_381259_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
